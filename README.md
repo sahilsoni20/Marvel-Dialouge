@@ -36,7 +36,12 @@ export MARVEL_PRIVATE_KEY=your-private-key
 
   <h2>Contributing</h2>
   <p>Contributions are welcome! Please fork the repository and submit a pull request with your changes.</p>
+  
+<h2>Demo</h2>
+
+https://github.com/sahilsoni20/Marvel-Dialouge/assets/140968802/9ae347df-09d9-4f04-aa75-9ed15f38992f
+
+
 
   <img src="https://github.com/sahilsoni20/Marvel-Dialouge/assets/140968802/da354793-bf78-4559-801b-0532ee0c2795" alt="Screenshot 1" width="400">
 <img src="https://github.com/sahilsoni20/Marvel-Dialouge/assets/140968802/e974748c-74f8-40ed-80f9-7442e29d6e70" alt="Screenshot 2" width="400">
-
